@@ -12,6 +12,8 @@ Ing. Gutierrez Lope Leonardo Flavio [Linkedin](https://www.linkedin.com/in/leona
 Las indicaciones generales del taller virtual estan descritas en el siguiente [Enlace al video](https://youtu.be/gMgexaYdy5s)
 
 ## 4. Contenido
+El tiempo de esfuerzo estimado para la completación del taller virtual es de 6 semanas, 2 horas por semana.
+
 ### Módulo 1: Fundamentos de R
 
 |Sesión|Tema|Duración|Enlace|
