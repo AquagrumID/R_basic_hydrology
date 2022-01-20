@@ -9,7 +9,8 @@
 Ing. Gutierrez Lope Leonardo Flavio [Linkedin](https://www.linkedin.com/in/leonardo-flavio-gutierrez-lope-9b8ab512b/)
 
 ## 3. Indicaciones
-Las indicaciones generales del taller virtual estan descritas en el siguiente [Enlace al video](https://youtu.be/gMgexaYdy5s)
+- Las indicaciones generales del taller virtual estan descritas en el siguiente [Enlace al video](https://youtu.be/gMgexaYdy5s)
+- El envío de las prácticas calificadas podrá realizarse mediante Google Classroom. Además, las asesorías para la resolución de consultas de cada módulo podrá realizarlo mediante la mencionada plataforma. El procedimiento se detalla en el siguiente [video](https://youtu.be/rxxOD1VGjtk).
 
 ## 4. Contenido
 El tiempo de esfuerzo estimado para la completación del taller virtual es de 6 semanas, 2 horas por semana.
@@ -105,3 +106,17 @@ Repositorio [Enlace Drive](https://drive.google.com/drive/folders/1GEyPKOyc_DKXf
 
 Documentación:
 Documentacion [Enlace Drive](https://drive.google.com/drive/folders/1qEDmi5rdaYHGLS2dLhCgQGgjUwhYs4vN?usp=sharing)
+
+## 6. Preguntas y Respuestas Frecuentes
+
+### Cuando es el inicio del taller virtual?
+- El desarrollo del taller virtual es de modalidad off-line o asincrónica. Por ello, no tiene un horario fijo con la ventaja de avanzarlo a tu propio ritmo y repetir las sesiones las veces que requieras.
+
+### Hay un tiempo límite para culminar el taller virtual?
+- Sí, el plazo maximo de acceso a las sesiones y entrega de prácticas calificadas es de 6 meses.
+
+### Como obtengo el certificado virtual?
+- Una vez finalizadas y aprobadas las prácticas calificadas del taller virtual, obtienes el certificado virtual.
+
+### Como realizo las consultas al expositor?
+- El expositor responderá las consultas mediante el sistema de mensajería de la plataforma de Google Classroom a la brevedad posible.
