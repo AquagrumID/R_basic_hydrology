@@ -109,14 +109,14 @@ Documentacion [Enlace Drive](https://drive.google.com/drive/folders/1qEDmi5rdaYH
 
 ## 6. Preguntas y Respuestas Frecuentes
 
-### Cuando es el inicio del taller virtual?
+### ¿Cuando es el inicio del taller virtual?
 - El desarrollo del taller virtual es de modalidad off-line o asincrónica. Por ello, no tiene un horario fijo con la ventaja de avanzarlo a tu propio ritmo y repetir las sesiones las veces que requieras.
 
-### Hay un tiempo límite para culminar el taller virtual?
+### ¿Hay un tiempo límite para culminar el taller virtual?
 - Sí, el plazo maximo de acceso a las sesiones y entrega de prácticas calificadas es de 6 meses.
 
-### Como obtengo el certificado virtual?
+### ¿Cómo obtengo el certificado virtual?
 - Una vez finalizadas y aprobadas las prácticas calificadas del taller virtual, obtienes el certificado virtual.
 
-### Como realizo las consultas al expositor?
+### ¿Cómo realizo las consultas al expositor?
 - El expositor responderá las consultas mediante el sistema de mensajería de la plataforma de Google Classroom a la brevedad posible.
