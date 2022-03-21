@@ -34,7 +34,7 @@ El tiempo de esfuerzo estimado para la completación del taller virtual es de 6 
 |Sesión|Tema|Duración|Enlace|
 |--------|------------|------------|------------|
 |2.1|Estructuras de datos|16:55|[Sesión 1](https://youtu.be/h_50Ings5tk)|
-|2.2|Estructuras de control de datos|13:50|[Sesión 2](https://youtu.be/H7eTShiJYSE)|
+|2.2|Estructuras de control de datos|11:36|[Sesión 2](https://youtu.be/gycZnTfpLUA)|
 |2.3|Importación y exportación de archivos|18:32|[Sesión 3](https://youtu.be/wCOBP7vj2eQ)|
 |2.4|Análisis exploratorio de datos|10:39|[Sesión 4](https://youtu.be/TFu2rBTh5GM)|
 |2.5|Transformación de datos|28:05|[Sesión 5](https://youtu.be/_hZI4Hc9utc)|
